@@ -1,8 +1,10 @@
 <p align="center">
+<a href="output/Podcast_sociedade_dos_devs_editado.mp3">
 <img 
     src="./assets/cover.png"
     width="300"
 />
+</a>
 </p>
 
 <p align="center">
