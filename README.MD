@@ -37,8 +37,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado via elevenLabs
-- Microsoft Copilot Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Microsoft Copilot para gerar a capa
+- Capcut para tratar o aúdio e adicionar sons de fundo
 
 
 
